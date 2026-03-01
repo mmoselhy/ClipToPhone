@@ -1,7 +1,6 @@
-fastapi
-uvicorn[standard]
 pystray
 keyboard
 pyperclip
 qrcode[pil]
 pillow
+customtkinter
